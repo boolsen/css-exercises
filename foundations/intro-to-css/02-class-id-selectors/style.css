@@ -1,0 +1,19 @@
+.classy {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(241, 103, 123);
+}
+
+#twosome {
+    color: blue;
+    font-size: 36px;
+}
+
+#foursome {
+    background-color: rgb(104, 224, 104);
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.imspecial {
+    font-size: 24px;
+}
